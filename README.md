@@ -1,4 +1,4 @@
 # Analisis numerico de la estructura de chorros super sonicos utilizando OpenFOAM
-El repositorio contiene las carpetas necesarias para replicar los datos de un caso específico de estudio centrado en una relación de presión de 4 (NPR=4). La carpeta principal se llama "NPR_4" y se creó una carpeta adicional llamada "ISOPRES" para comparar los resultados de las isolíneas de presión. Dentro de estas carpetas, encontrarás "0", "system" y "constant", que contienen información esencial para la simulación. 
+En este repositorio encontrarás las carpetas necesarias para replicar los datos obtenidos en un caso específico de estudio, donde se investigó una relación de presión de 4 (NPR=4). Estas carpetas incluyen "0", "system" y "constant", las cuales contienen información esencial para llevar a cabo y comprender la simulación.
 
-Para ejecutar este caso de estudio, es esencial correr la malla de "blockMesh" para definir la geometría del dominio de la simulación. Además, puedes ajustar el paso de tiempo y el diámetro del volumen de control según sea necesario para adaptarse a las condiciones específicas de tu investigación.
+Con toda esta información disponible, podrás reproducir los datos obtenidos en el caso de la relación de presión 4 y explorar más a fondo el fenómeno estudiado. 
